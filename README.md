@@ -21,6 +21,8 @@ Set environment variables
 Enter the notebook diirectory and run
 flask.run
 
+![Example](images/example.PNG)
+
 pip install 
 # Pillow
 # werkzeug==0.16.0
