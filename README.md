@@ -21,5 +21,11 @@ Set environment variables
 Enter the notebook diirectory and run
 flask.run
 
-
-
+pip install 
+# Pillow
+# werkzeug==0.16.0
+# Flask
+# matplotlib
+# tensorflow
+# keras
+# tqdm
