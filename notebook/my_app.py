@@ -1,8 +1,8 @@
 
 import cv2                
 import matplotlib.pyplot as plt 
-from .resnet import Resnet50  
-from .xception_model import DogXception               
+from resnet import Resnet50  
+from xception_model import DogXception               
 import os      
 import sys
 from keras.preprocessing import image 

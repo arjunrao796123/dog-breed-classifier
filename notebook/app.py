@@ -3,7 +3,7 @@
 # Project: Dog Breed Classifier 
 # June 2018
 
-from . import my_app as model
+import my_app as model
 from flask import Flask, url_for, request, render_template, flash, redirect
 from werkzeug import secure_filename
 import os
