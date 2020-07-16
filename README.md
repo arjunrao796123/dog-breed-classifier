@@ -10,6 +10,8 @@ Assess the Human Face Detector The submission returns the percentage of the firs
 Detect Dogs
 Use a pre-trained VGG16 Net to find the predicted class for a given image: dog_detector function returns True if a dog is detected in an image and False if not.
 
+We use various neworks ike Xception model, Inception model, VGG19, Resnet 50 to compare which model performs the best.
+
 You can view the blog post at https://medium.com/@arao_81907/dog-breed-identifier-udacity-nano-degree-project-d00f6126260
 
 
