@@ -16,3 +16,6 @@ You can view the blog post at https://medium.com/@arao_81907/dog-breed-identifie
 The dog dataset can be downloaded at 
 [Dog Dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip "Dog Data")
 
+
+The human dataset can be downloaded at 
+[Human Dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip "Human Data")
