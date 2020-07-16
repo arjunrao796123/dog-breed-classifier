@@ -28,5 +28,5 @@ If you want to use a GPU to run this code, then you can use Google colab or an a
 The best model for me was the xception model, which gave me an accuracy of 85.7%
 
 
-
-I would like to thank udacity for this opportunity.
+# Acknowledgements
+I would like to thank Udacity for this opportunity.
