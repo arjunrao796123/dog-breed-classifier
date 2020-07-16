@@ -23,3 +23,10 @@ The human dataset can be downloaded at
 [Human Dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip "Human Data")
 
 If you want to use a GPU to run this code, then you can use Google colab or an aws instance.
+
+# Best models
+The best model for me was the xception model, which gave me an accuracy of 85.7%
+
+
+
+I would like to thank udacity for this opportunity.
