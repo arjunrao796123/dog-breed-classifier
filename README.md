@@ -12,24 +12,7 @@ Use a pre-trained VGG16 Net to find the predicted class for a given image: dog_d
 
 You can view the blog post at https://medium.com/@arao_81907/dog-breed-identifier-udacity-nano-degree-project-d00f6126260
 
-To run the app
 
-Clone the repository
-Set environment variables
-1. FLASK_ENV = development
-2. FLASK_DEBUG = 1
-3. FLASK_APP = app.py
+The dog dataset can be downloaded at 
+[Dog Dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip "Dog Data")
 
-Enter the notebook diirectory and run
-flask.run
-
-![Example](notebook/images/example.PNG)
-
-pip install 
-# Pillow
-# werkzeug==0.16.0
-# Flask
-# matplotlib
-# tensorflow
-# keras
-# tqdm
