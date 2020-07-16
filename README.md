@@ -19,3 +19,5 @@ The dog dataset can be downloaded at
 
 The human dataset can be downloaded at 
 [Human Dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip "Human Data")
+
+If you want to use a GPU to run this code, then you can use Google colab or an aws instance.
